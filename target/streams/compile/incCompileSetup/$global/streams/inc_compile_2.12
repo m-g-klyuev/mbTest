@@ -1,0 +1,538 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$$anon$1.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$$anon$2.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Bid$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Bid.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$OptSalePricesByVolume$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$OptSalePricesByVolume.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Pipe$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Pipe.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$PriceByOrderNum$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$PriceByOrderNum.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$ResultVolumeByOrder$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$ResultVolumeByOrder.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\TestFileGenerator$.class
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\TestFileGenerator.class
+binary dependencies:
+6 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ru.mb.bidding.Auction
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ru.mb.bidding.Auction$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ru.mb.bidding.Auction$$anon$1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ru.mb.bidding.Auction$$anon$2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$Bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$Bid$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$OptSalePricesByVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$OptSalePricesByVolume$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$Pipe
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$Pipe$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$PriceByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$PriceByOrderNum$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$ResultVolumeByOrder
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru.mb.bidding.package$ResultVolumeByOrder$
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ru.mb.bidding.TestFileGenerator
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ru.mb.bidding.TestFileGenerator$
+used names:
+380 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> $anon
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> %
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> *
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> +
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> /
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ::
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> :::
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> <=
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> <byname>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> <init>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> <refinement>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> <repeated>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ==
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> >
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> A
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> A1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Any
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Array
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ArrayOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Auction
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> B
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> BigDecimal
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Boolean
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> BufferedSource
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Callable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> CanBuildFrom
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Char
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Codec
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Coll
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Double
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> EOL
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> EXECUTOR_POOL_SIZE
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Either
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Exception
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ExecutorService
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Executors
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Failure
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Function1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Function2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Future
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> HALF_UP
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Int
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Iterator
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Left
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> List
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Long
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> MAX_BID_PRICE
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> MatchError
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Nil
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Nothing
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Object
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> OptSalePricesByVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Pipe
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Platform
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Predef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> PriceByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ResultVolumeByOrder
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Right
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> RoundingMode
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> S
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> SPLIT_FLAG
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Source
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> String
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> StringContext
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> StringOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Success
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> System
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> T
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> T0
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> T1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> T2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> That
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Thread
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Throwable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Try
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Tuple2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Unit
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> Value
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> _1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> _2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> _root_
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> a
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> acc
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> annotation
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> apply
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> args
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> augmentString
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bBids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bPrByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bPricesByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bQ
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bidding
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bidsGrPart
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bidsGrToSplit
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> bidsToGr
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> buyPriceDist
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> calcAndPrintResult
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> calcOptSalePrice
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> calcPartsLength
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> calcPossibleSaleQuantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> canBuildFrom
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> charAt
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> collection
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> compat
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> concurrent
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> conductBidding
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> currentThread
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> currentTimeMillis
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> direction
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ex
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> exception
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> exit
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> f
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> fallbackSystemCodec
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> filter
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> filterNot
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> foldLeft
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> fromFile
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> get
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> getLines
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> go
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> grBids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> grBorder
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> groupBids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> grouped
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> groupedBids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> h
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> head
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> immutable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> initialList
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> io
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> isInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> java
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> l
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> lang
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> length
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> line
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> map
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> mb
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ne
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> newFixedThreadPool
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ofRef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optPrSum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optPrices
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optSellPrAsynchRes
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optSellPricesByVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optSellPricesByVolumeAsync
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optSellPricesByVolumeParts
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> optSlPrsNumber
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> p
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> package
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> part
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> posSlQ
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> prGr
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> price
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> priceDistAsynch
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> println
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> quantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> r
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> reSum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> reduce
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> refArrayOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> res
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> resPriceByVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> ru
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> s
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sBids
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sOrderAmount
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sPrByOrdNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sPrByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sPrByV
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sQ
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sTotVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> scala
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sellPriceDist
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> sellPricesByNumGr
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> setName
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> setScale
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> split
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> splitBidGr
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> splittedBidGroups
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> submit
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> t
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> tailrec
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> task
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> toDouble
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> toInt
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> toList
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> totQuantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> totalVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> util
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> value
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> valueOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> |>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> $this
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> &&
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> *
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> +
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> -
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ::
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> <=
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> <init>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ==
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> A
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> AbstractFunction2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> AbstractFunction3
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Any
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> AnyVal
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> B
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> BigDecimal
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Boolean
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Char
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Double
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> EXECUTOR_POOL_SIZE
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Function1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> HALF_UP
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> IndexOutOfBoundsException
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Int
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Iterator
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> List
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> MAX_BID_PRICE
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> MAX_ORDER_QUANTITY
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Nil
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> None
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Nothing
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Object
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> OptSalePricesByVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Option
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Pipe
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Predef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> PriceByOrderNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Product
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Random
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ResultVolumeByOrder
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> RoundingMode
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> S
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> SPLIT_FLAG
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ScalaRunTime
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Serializable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Some
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Statics
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> String
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> T
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> T0
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> T1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> T2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> T3
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Tuple2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Tuple3
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> Value
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> _root_
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> _toString
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> acc
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> annotation
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> anyHash
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> apply
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> bidding
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> collection
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> direction
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> doubleHash
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> entryNum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> eq
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> f
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> finalizeHash
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> gen
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> hashCode
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> i
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> immutable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> isInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> math
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> mb
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> mix
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> nextBoolean
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> nextDouble
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> nextInt
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> optPrices
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> package
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> price
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> quantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> reSum
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ru
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> runtime
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> sOrderAmount
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> sTotVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> scala
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> setScale
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> tailrec
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> toDouble
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> toInt
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> toString
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> totalVolume
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> typedProductIterator
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> util
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> v
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> valueOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> |>$extension
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> ||
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> +
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ::
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> <init>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> <repeated>
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ==
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> A
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> A1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Any
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Array
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ArrayOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> B
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Boolean
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> CanBuildFrom
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Char
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Coll
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Double
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> EOL
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Exception
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Function1
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Function2
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Int
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> List
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> MatchError
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Nil
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Nothing
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Object
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Platform
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Predef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> PrintWriter
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Some
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> String
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> StringContext
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> StringOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> T
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> T0
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> TestFileGenerator
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> That
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> U
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> Unit
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> args
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> augmentString
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> bid
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> bidding
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> canBuildFrom
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> close
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> collection
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> compat
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> direction
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> foreach
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> genTestData
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> h
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> head
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> immutable
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> io
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> isInstanceOf
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> java
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> map
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> mb
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ofRef
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> orderQuantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> p
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> package
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> price
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> quantity
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> reduce
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> refArrayOps
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> ru
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> s
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> scala
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> toInt
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> toList
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> write
+product stamps:
+18 items
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$$anon$1.class -> lastModified(1522751655957)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$$anon$2.class -> lastModified(1522751655962)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction$.class -> lastModified(1522751655954)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\Auction.class -> lastModified(1522751655950)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$.class -> lastModified(1522751446078)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Bid$.class -> lastModified(1522751446108)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Bid.class -> lastModified(1522751446087)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$OptSalePricesByVolume$.class -> lastModified(1522751446100)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$OptSalePricesByVolume.class -> lastModified(1522751446097)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Pipe$.class -> lastModified(1522751446084)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$Pipe.class -> lastModified(1522751446081)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$PriceByOrderNum$.class -> lastModified(1522751446094)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$PriceByOrderNum.class -> lastModified(1522751446091)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$ResultVolumeByOrder$.class -> lastModified(1522751446105)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package$ResultVolumeByOrder.class -> lastModified(1522751446102)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\package.class -> lastModified(1522751446071)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\TestFileGenerator$.class -> lastModified(1522751446068)
+C:\Users\DELL\IdeaProjects\mbTest\target\scala-2.12\classes\ru\mb\bidding\TestFileGenerator.class -> lastModified(1522751446065)
+source stamps:
+3 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> hash(55d56b6cba3092018fe60b96f64bb6fc6f788b4a)
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> hash(48fad697ea19c24b974a43aab1e48618b5ab08bd)
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> hash(a88885f4d778cf66f677384e454f7c60cc6cbe0d)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> lastModified(1484568878200)
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> java.lang.Object
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.collection.LinearSeqOptimized
+internal apis:
+3 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOAkrvAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJu+QB3QABm5vdGlmeXNxAH4ADId9xNJ0AAR3YWl0c3EAfgAM9rCzNHQADSRhc0luc3RhbmNlT2ZzcQB+AAxBLJMTdAAGZXF1YWxzc3EAfgAMhg4RlXQADGFzSW5zdGFuY2VPZnNxAH4ADCq4v2N0AAxzeW5jaHJvbml6ZWRzcQB+AAzqb1sedAANJGlzSW5zdGFuY2VPZnNxAH4ADHu9xM10AARtYWluc3EAfgAMLXgezXQACW5vdGlmeUFsbHNxAH4ADFSztyh0AAdBdWN0aW9uc3EAfgAMOD0uOnQADGlzSW5zdGFuY2VPZnNxAH4ADEOFNvN0AAI9PXNxAH4ADEWrnK90AAVjbG9uZXNxAH4ADFFJ+vB0ABJjYWxjQW5kUHJpbnRSZXN1bHRzcQB+AAwPchcKdAAIdG9TdHJpbmdzcQB+AAzKNYt3dAACIT1zcQB+AAzOiARHdAAOY29uZHVjdEJpZGRpbmdzcQB+AAwQThFQdAAIZ2V0Q2xhc3NzcQB+AAz0SbaldAACbmVzcQB+AAwmvq0ZdAACZXFzcQB+AAx6CGSodAACIyNzcQB+AAx4Y9rkdAAIZmluYWxpemVzcQB+AAz03+dydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVcnUubWIuYmlkZGluZy5BdWN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARnEAfgBPdXEAfgBQAAAAAHNxAH4AUgBxAH4AHXVxAH4AVQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHB0AAVBcnJheXEAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHB0AAZTdHJpbmdzcQB+AHRzcQB+AHd1cQB+AHoAAAADc3EAfgB8dAAEamF2YXNxAH4AfHQABGxhbmdxAH4AgXNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AJUAAAACc3EAfgBwdAAGT2JqZWN0cQB+AJlzcQB+AHB0AANBbnlxAH4AdnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAnJ1c3EAfgCqdAANcnUubWIuYmlkZGluZ3NxAH4AqnQABXJ1Lm1ic3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiixJKTXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtDOlxVc2Vyc1xERUxMXElkZWFQcm9qZWN0c1xtYlRlc3RcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFXVa2y6MJIBj+YLlvZLtvxveItK
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0gnYWwABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB5cUvcdAAEUGlwZXVxAH4ACQAAAD5zcQB+AAuJGV7xdAAGbm90aWZ5c3EAfgAL/kaJT3QAB3VuYXBwbHlzcQB+AAvxAPhQdAAHY3VycmllZHNxAH4ACwrMOMN0AAdwYWNrYWdlc3EAfgALhtY+knQACHF1YW50aXR5c3EAfgAL6FVccHQABFBpcGVzcQB+AAtztLYsdAAEd2FpdHNxAH4AC7MTadl0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC3ItCXl0AA0kYXNJbnN0YW5jZU9mc3EAfgAL7n882XQADHNPcmRlckFtb3VudHNxAH4AC09Pgz10AAxzZWxPcmRlclByb3RzcQB+AAvOTcPydAAMcHJvZHVjdEFyaXR5c3EAfgAL4bmob3QABmVxdWFsc3NxAH4ACzP52ul0AAJ8PnNxAH4AC5KHcRB0AAxhc0luc3RhbmNlT2ZzcQB+AAvf/webdAAFcHJpY2VzcQB+AAsnWffDdAANTUFYX0JJRF9QUklDRXNxAH4AC1rklyt0AAxzeW5jaHJvbml6ZWRzcQB+AAuG+DV7dAANJGlzSW5zdGFuY2VPZnNxAH4AC8UGC6N0AA9QcmljZUJ5T3JkZXJOdW1zcQB+AAvYKLjudAALZ2VuVGVzdERhdGFzcQB+AAsiYzBQdAAGdHVwbGVkc3EAfgALSMDWAnQACWRpcmVjdGlvbnNxAH4AC5Yp+wZ0AAhjYW5FcXVhbHNxAH4AC+bI5L90AA1wcm9kdWN0UHJlZml4c3EAfgALRyT1ZHQACW5vdGlmeUFsbHNxAH4AC2R/9wZ0AApTUExJVF9GTEFHc3EAfgALZuu6G3QADGlzSW5zdGFuY2VPZnNxAH4AC28FcDF0AApzVG90Vm9sdW1lc3EAfgALcDiC/3QAAXZzcQB+AAsCJ5hudAAGPGluaXQ+c3EAfgALuCK9nnQAA0JpZHNxAH4ACxWU+hh0AAVhcHBseXNxAH4AC5Ush590AAFCc3EAfgALZ4QG0HQAAj09c3EAfgALdJnuzXQABWNsb25lc3EAfgALz4IQ6nQADGJ1eU9yZGVyUHJvdHNxAH4AC5hmFIV0ABBlcXVhbHMkZXh0ZW5zaW9uc3EAfgALqozoP3QABiRpbml0JHNxAH4AC4Ukdzl0ABVPcHRTYWxlUHJpY2VzQnlWb2x1bWVzcQB+AAuZUKk/dAAOY29weSRkZWZhdWx0JDNzcQB+AAtlXW7pdAAEY29weXNxAH4AC1BRQxF0AAh0b1N0cmluZ3NxAH4AC2edzTl0ABJFWEVDVVRPUl9QT09MX1NJWkVzcQB+AAt1Y4fEdAACIT1zcQB+AAvhMTctdAAIZ2V0Q2xhc3NzcQB+AAvzGMnodAAOY29weSRkZWZhdWx0JDFzcQB+AAsyM0jLdAAMfD4kZXh0ZW5zaW9uc3EAfgALGJkL13QAAm5lc3EAfgALb89Et3QAE1Jlc3VsdFZvbHVtZUJ5T3JkZXJzcQB+AAuYv96EdAASaGFzaENvZGUkZXh0ZW5zaW9uc3EAfgALnhrzO3QAAmVxc3EAfgAL/4HX33QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC5zfAP90AAlvcHRQcmljZXNzcQB+AAsCPoendAASTUFYX09SREVSX1FVQU5USVRZc3EAfgALTF9KhHQAAiMjc3EAfgALzioEeHQACGZpbmFsaXplc3EAfgALE7bvMnQADnByb2R1Y3RFbGVtZW50c3EAfgALfJnfWHQACGhhc2hDb2Rlc3EAfgALm+7JP3QAAVNzcQB+AAtn6VacdAALdG90YWxWb2x1bWVzcQB+AAurgBs6dAAFcmVTdW1zcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVcnUubWIuYmlkZGluZy5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4AsnNxAH4ArXVxAH4AkAAAAABzcQB+AK11cQB+AJAAAAAAc3EAfgCtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCxdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDLc3EAfgC+dAADQW55c3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynQABXNjYWxhcQB+ANF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAJydXNxAH4A23QADXJ1Lm1iLmJpZGRpbmdzcQB+ANt0AAVydS5tYnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYosPFTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA7QzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcbWJUZXN0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRI+taX6hnCS5dKQ6qx5IYYtasIvQ==
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2OtwYgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFRUERXQABm5vdGlmeXNxAH4ADOMXyOx0AAR3YWl0c3EAfgAMdAKh7HQADSRhc0luc3RhbmNlT2ZzcQB+AAzCZlRJdAARVGVzdEZpbGVHZW5lcmF0b3JzcQB+AAyNKbaadAAGZXF1YWxzc3EAfgAMDY7OMHQADGFzSW5zdGFuY2VPZnNxAH4ADEN1ksJ0AAxzeW5jaHJvbml6ZWRzcQB+AAx8d364dAANJGlzSW5zdGFuY2VPZnNxAH4ADP6hbJx0AARtYWluc3EAfgAMFpMqBnQACW5vdGlmeUFsbHNxAH4ADPiopwB0AAxpc0luc3RhbmNlT2ZzcQB+AAzqYDGZdAACPT1zcQB+AAw5YbG9dAAFY2xvbmVzcQB+AAwuDdbEdAAIdG9TdHJpbmdzcQB+AAzzRqLGdAACIT1zcQB+AAxwkPvMdAAIZ2V0Q2xhc3NzcQB+AAyVBxpndAACbmVzcQB+AAwpONdRdAACZXFzcQB+AAyBygGbdAACIyNzcQB+AAxDp0MgdAAIZmluYWxpemVzcQB+AAw5safYdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAfcnUubWIuYmlkZGluZy5UZXN0RmlsZUdlbmVyYXRvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJydXNxAH4ApnQADXJ1Lm1iLmJpZGRpbmdzcQB+AKZ0AAVydS5tYnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYosPFTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7QzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcbWJUZXN0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSoiIX013jPZvZ3OE5FT3xgzGy+DQ==
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\Auction.scala -> 
+AAAAAAAAAAA=
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\DELL\IdeaProjects\mbTest\src\main\scala\ru\mb\bidding\TestFileGenerator.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYocg0Sd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYodOxEd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYodXFn51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYodYNLN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYodbNLh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYodn7ip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYod+aER1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoeWV9t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoetSsh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYorI3FF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYorNlgp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYorYLGh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYormwkx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYorpo8h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYor0JHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYosPFTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYosSSk11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXG1iVGVzdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==

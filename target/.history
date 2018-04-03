@@ -1,0 +1,57 @@
+reStart
+test
+run
+���
+sbt
+run
+runMain revolt.WebServer
+runMain mb.Sales
+clean compile
+clean
+runMain mb.Sales
+clean
+runMain mb.Sales
+runMain ru.mb.bidding.Sales
+test:testOnly ru.mb.bidding.BiddingTest
+test
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+clean
+test:testOnly ru.mb.bidding.BiddingTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+build
+run a s d
+run a
+clean
+compile
+run 1000000
+run 10000
+run 100000
+run 1000
+run testdata.txt
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
+run testdata.txt
+run S 100 20.00 B 100 15.00
+run S 100 20.00 B 20 30.00
+run S 10 20.00 B 20 30.00
+run
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
