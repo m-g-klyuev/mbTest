@@ -52,9 +52,9 @@ object Auction {
 
     val sBids = bids.filter(_.direction == Bid.S)
 
-    val buyPriceDist = priceDistAsynch(ex, splitBidGr(bBids))
+    val buyPriceDist = groupBids2(bBids)/*priceDistAsynch(ex, splitBidGr(bBids))*/
 
-    val sellPriceDist = priceDistAsynch(ex, splitBidGr(sBids))
+    val sellPriceDist = groupBids2(sBids) /*priceDistAsynch(ex, splitBidGr(sBids))*/
 
     val optSellPricesByVolume =
       optSellPricesByVolumeAsync(ex, sellPriceDist.grouped(calcPartsLength(sellPriceDist)).toList, buyPriceDist)
@@ -91,6 +91,11 @@ object Auction {
     }
 
     go(grBids, MAX_BID_PRICE / (EXECUTOR_POOL_SIZE.toDouble), Nil)
+  }
+
+  // another way to GroupBids
+  private def groupBids2(bids: List[Bid]): List[PriceByOrderNum] = {
+    bids.groupBy(_.price).map{ case (price, bids) => PriceByOrderNum(price, bids.map(_.quantity).reduce(_ + _))}.toList
   }
 
   // asynch calculation of price by quantity of orders distribution, result is distinct by price

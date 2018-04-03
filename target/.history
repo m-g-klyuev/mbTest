@@ -55,3 +55,9 @@ test:testOnly ru.mb.bidding.BiddingHighLoadTest
 test:testOnly ru.mb.bidding.BiddingLogicTest
 test:testOnly ru.mb.bidding.BiddingHighLoadTest
 test:testOnly ru.mb.bidding.BiddingLogicTest
+run S 10 20.00 B 20 30.00
+run testdata.txt
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
+test:testOnly ru.mb.bidding.BiddingLogicTest
+test:testOnly ru.mb.bidding.BiddingHighLoadTest
